@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name: Hide Comment Menu
- * Plugin URI: http://www.daveredfern.com
+ * Plugin URI: https://github.com/daveredfern/hide-comment-menu
  * Description: Hides the comments menu. Useful if you disable comments site wide.
  * Version: 1.0.0
  * Author: Dave Redfern
